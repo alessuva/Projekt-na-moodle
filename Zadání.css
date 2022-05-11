@@ -1,0 +1,31 @@
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: black;
+  text-align: right;
+}
+
+a {
+  color: hotpink;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+table {
+  width: 50%;
+}
+table, th, td {
+  border: 1px solid;
+}
+ol {
+  list-style-type: upper-roman;
+}
+
+img {
+  height: 200px;
+  width: 20%;
+  }
